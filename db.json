@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "9fdd",
+      "title": "makanan",
+      "body": "makanan yang enak adalah nasi goreng"
+    },
+    {
+      "id": "c72c",
+      "title": "olahraga",
+      "body": "olahraga yang bagus adalah senam"
+    }
+  ]
+}
